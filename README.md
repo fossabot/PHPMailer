@@ -1,4 +1,5 @@
 ![PHPMailer](https://raw.github.com/PHPMailer/PHPMailer/master/examples/images/phpmailer.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSc0808%2FPHPMailer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSc0808%2FPHPMailer?ref=badge_shield)
 
 # PHPMailer - A full-featured email creation and transfer class for PHP
 
@@ -35,6 +36,9 @@ The PHP `mail()` function usually sends via a local mail server, typically front
 
 ## License
 This software is distributed under the [LGPL 2.1](http://www.gnu.org/licenses/lgpl-2.1.html) license, along with the [GPL Cooperation Commitment](https://gplcc.github.io/gplcc/). Please read LICENSE for information on the software availability and distribution.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSc0808%2FPHPMailer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSc0808%2FPHPMailer?ref=badge_large)
 
 ## Installation & loading
 PHPMailer is available on [Packagist](https://packagist.org/packages/phpmailer/phpmailer) (using semantic versioning), and installation via [Composer](https://getcomposer.org) is the recommended way to install PHPMailer. Just add this line to your `composer.json` file:
